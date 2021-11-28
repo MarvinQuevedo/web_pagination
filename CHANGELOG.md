@@ -1,4 +1,4 @@
-## [0.0.3] - Migration
+## [0.0.4] - Migration
 * Null safely
 
 ## [0.0.3] - Edit readme
