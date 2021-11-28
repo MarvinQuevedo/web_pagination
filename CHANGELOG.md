@@ -1,5 +1,7 @@
-## [0.0.3] - Edit readme
+## [0.0.3] - Migration
+* Null safely
 
+## [0.0.3] - Edit readme
 * Little fix
 
 
