@@ -1,6 +1,6 @@
 name: web_pagination
 description: This package help to create a web pagination easily
-version: 0.0.4 
+version: 0.0.5 
 repository: https://github.com/MarvinQuevedo/web_pagination.git
 
 environment:
